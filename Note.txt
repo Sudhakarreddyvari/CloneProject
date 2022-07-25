@@ -1,0 +1,17 @@
+Hello World 
+Today i m going to teach you 
+HTML 
+
+HTML- means hyper text markup language
+html have Tags
+Html is for build a website 
+CSS is for structure of website
+
+if we have to add favicon into website
+
+we have using link Tag<link rel="icon" type="image/png" href="image name"
+
+Attribute
+
+element attribbutes
+global Attribute
